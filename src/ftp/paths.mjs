@@ -42,3 +42,6 @@ export const Elastic_Locations_CSV = Elastic_Locations + "/locations.csv";
 
 export const Elastic_TechMapping = Elastic + "/In/TechMapping";
 export const Elastic_TechMapping_CSV = Elastic_TechMapping + "/tech_mapping.csv";   
+
+export const Dynamics_Orders = "/Elastic/Out/SalesOrders"
+export const Dynamics_Orders_Pending = Dynamics_Orders + "/Pending"
